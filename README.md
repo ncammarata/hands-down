@@ -1,0 +1,1 @@
+Browser add-on that removes the stressful clapping emoji in tweets
